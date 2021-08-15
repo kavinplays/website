@@ -1,11 +1,17 @@
-import adapter from '@sveltejs/adapter-static';
-
-// then in the config object, add an adapter key under kit, and call the imported library
+import preprocess from "svelte-preprocess";
+import adapter_static from '@sveltejs/adapter-static'
+/** @type {import('@sveltejs/kit').Config} */
 const config = {
-	kit: {
+    kit: {
 		// hydrate the <div id="svelte"> element in src/app.html
 		target: '#svelte',
-		adapter: adapter()
-	}
+        adapter: adapter_static()
+	},
+
+    preprocess: [preprocess({
+        "postcss": true
+    })],
+
 };
+
 export default config;

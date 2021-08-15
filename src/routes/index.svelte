@@ -1,11 +1,2 @@
-<link rel="stylesheet" href="index.css">
-<p>Bruh!</p>
-<style>
-	p {
-		color: purple;
-		font-family: 'Comic Sans MS', cursive;
-		font-size: 2em;
-        margin: auto;
-        text-align: center;
-	}
-</style>
+<h1>Welcome to SvelteKit</h1>
+<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
