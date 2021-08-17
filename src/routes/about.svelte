@@ -12,7 +12,7 @@
 
 </head>
 
-<body class="font-sans antialiased text-gray-900 leading-normal tracking-wider bg-cover" style="background-image:url('https://source.unsplash.com/1L71sPT5XKc');">
+<body class="font-sans antialiased text-gray-900 leading-normal tracking-wider bg-cover backdrop-blur" style="background-image:url('https://source.unsplash.com/1L71sPT5XKc');">
 
 
 
@@ -24,7 +24,7 @@
 
 		<div class="p-4 md:p-12 text-center lg:text-left">
 			<!-- Image for mobile view-->
-			<div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center" style="background-image: url('/favicon.ico')"></div>
+			<div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center opacity-100" style="background-image: url('/favicon.ico')"></div>
 			
 			<h1 class="text-3xl font-bold pt-8 lg:pt-0">Still Working on This!</h1>
 			<div class="mx-auto lg:mx-0 w-4/5 pt-3 border-b-2 border-green-500 opacity-25"></div>
