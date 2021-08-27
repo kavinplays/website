@@ -1,10 +1,5 @@
 <svelte:head>
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>KavinPlays</title>
-    <meta name="description" content="HomePage for the website">
-    <meta name="keywords" content="kavinplays,kavin">
-    <meta name="author" content="kavinplays">
-    <!-- <link rel="author" href="humans.txt" /> -->
 </svelte:head>
 <div class="text-gray-500 h-screen justify-center">
 <center class="mt-52 m-auto">
