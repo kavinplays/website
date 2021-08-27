@@ -9,7 +9,7 @@
     <meta name="description" content="HomePage for the website">
     <meta name="keywords" content="kavinplays,kavin">
     <meta name="author" content="kavinplays">
-    <link rel="author" href="humans.txt" />
+    <!-- <link rel="author" href="humans.txt" /> -->
 </head>
 <body>
     <div class="text-gray-500 h-screen justify-center">
