@@ -12,6 +12,6 @@
 </div>
 </center>
 <center class="py-6">
-<a href="https://kavinplays.ml/api" class="text-gray-500 font-mono text-xl bg-gray-200 p-3 rounded-md hover:shadow-md">API</a>
+<a href="https://www.kavinplays.ml/api" class="text-gray-500 font-mono text-xl bg-gray-200 p-3 rounded-md hover:shadow-md">API</a>
 </center>
 </div>
